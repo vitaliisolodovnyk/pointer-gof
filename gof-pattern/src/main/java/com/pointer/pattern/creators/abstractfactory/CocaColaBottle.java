@@ -1,4 +1,4 @@
-package com.pointer.pattern.abstractfactory;
+package com.pointer.pattern.creators.abstractfactory;
 
 public class CocaColaBottle extends Bottle {
 

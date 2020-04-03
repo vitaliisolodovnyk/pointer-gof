@@ -1,4 +1,4 @@
-package com.pointer.pattern.abstractfactory;
+package com.pointer.pattern.creators.abstractfactory;
 
 public abstract class AbstractFactory {
 
