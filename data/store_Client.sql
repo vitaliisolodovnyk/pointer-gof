@@ -1,0 +1,1 @@
+INSERT INTO store.Client (id, login, email, city_id) VALUES (1, 'okazimirov', 'test@test', 1);
