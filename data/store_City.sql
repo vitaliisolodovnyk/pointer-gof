@@ -1,0 +1,1 @@
+INSERT INTO store.City (id, name) VALUES (1, 'City101');
